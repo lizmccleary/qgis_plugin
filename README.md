@@ -1,4 +1,4 @@
-# egis_plugin
+# qgis_plugin
 Prelimiary ideas 
 - relational plant database 
 - creation of API from iNaturalist, Ebird, etc to QGIS 
